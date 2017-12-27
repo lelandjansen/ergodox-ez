@@ -1,2 +1,2 @@
-# ergodox-ez
-ErgoDox EZ keyboard
+# ErgoDox EZ
+ErgoDox EZ keyboard configuration.
